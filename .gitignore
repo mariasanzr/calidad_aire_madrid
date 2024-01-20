@@ -1,0 +1,10 @@
+# Ignorar todo en el directorio raíz
+*.txt
+*.pkl
+__pycache__
+cookies/
+.vscode/
+.DS_Store
+```
+
+config.py
