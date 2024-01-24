@@ -1,5 +1,7 @@
 ## Calidad del aire Madrid
 
+![Madrid](/data/madrid.jpg)
+
 ### Introducción
 
 Para este reto partía de datos acerca de las sustancias en el aire de Madrid y que por tanto determinan su calidad. 
